@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(74, 96, 104);
+    color: #fff;
+    display: grid;
+    justify-content:center ;
+    justify-items: center;
+    justify-self: center;
+    
+}
